@@ -1,2 +1,2 @@
-hello, this is a new git test!
-and that's another line!
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
